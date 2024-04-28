@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "FunctionStarships": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7005"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 32351,
+      "useSSL": false
+    }
+  }
+}
